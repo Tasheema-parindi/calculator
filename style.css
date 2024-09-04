@@ -18,12 +18,6 @@ body{
 	background: linear-gradient(45deg,#0a0a0a,#3a4452);
 }
 
-/*.calculator{
-	padding:15px;
-	box-shadow:0 0 15px, #000;
-	border:2px solid color rgb(116,114,114);
-	border-radius:25px;
-}*/
 
 .display input{
 	width:360px;
